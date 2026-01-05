@@ -1,3 +1,16 @@
+## 📌 Nota
+
+Este repositorio es un fork del curso **JavaScript30** de Wes Bos.
+
+Su propósito es:
+- Revisar el código original
+- Analizar los starter files
+- Entender la solución propuesta por el autor
+
+Las implementaciones personales y reescritas desde cero
+se encuentran en un repositorio independiente.
+
+
 ﻿![](https://javascript30.com/images/JS3-social-share.png)
 
 # JavaScript30
